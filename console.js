@@ -1,8 +1,10 @@
 //my first pr requeest
-console.log("My First PR");
+const str1 = "My First PR"
+console.log(str1);
 
 //my second pr request
-console.log(("My Second PR");
+const str2 = "My Second PR" 
+console.log(str2);
 
 //creating js server 
 // Requiring modules
